@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Al3x
+- 👀 I’m interested in Websites
+- 🌱 I’m currently learning HTML/CSS, PHP and JavaScript
+- 📫 How to reach me on Discord > Al3x#3828 or E-Mail > hello@al3x.party

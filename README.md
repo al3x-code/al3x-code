@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Websites
 - 🌱 I’m currently learning HTML/CSS, PHP and JavaScript
-- 📫 How to reach me on Discord > Al3x#3828 or E-Mail > hello@al3x.party
+- 📫 How to reach me on Discord > Al3x#3828 or E-Mail > hello@al3x.online
